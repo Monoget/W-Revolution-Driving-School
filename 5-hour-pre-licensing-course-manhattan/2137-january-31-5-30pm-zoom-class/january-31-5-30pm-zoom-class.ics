@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:61e32bb8d5c24
+DTSTART:20220131T223000Z
+DTEND:20220201T033000Z
+DTSTAMP:20220131T223000Z
+ORGANIZER;CN=Revolution Driving School:mailto:info@revolutiondrivingschools.com
+CREATED:20220115T201656Z
+DESCRIPTION:*Please Read: 5 Hour Pre-Licensing Course PolicyThe student must present: either a current New York Photo Learner Permit or a valid interim permit with a New York State Government-issued ID card (such as a Non-Driver ID Card\, Expired New York Photo Permit\, and/or Expired New York Photo License). The photo learner permit or New York photo document are the only acceptable forms of identificationLate students will NOT be accepted per DMV requirement - FEE WILL BE NON-REFUNDABLE24 hour cancellation/re-scheduling policy. After 24hrs you lose the feeIf your certificate is expired (valid for 1 year from date taken) you have to take the class againIf you lost your certificate\, duplicate fee is $25 – has to be requested at least 24hrs in advanceAll refunds are subject to a 10% inconvenience fee (no less than $10\, whichever is greater)FOR ZOOM CLASS:Have internet connection at all times and phone/laptop with working camera and microphoneInstructor will prepare certificate at the MANHATTAN locationALL CERTIFICATES WILL BE MAILED WITHIN 24 HOURS TO THE ADDRESS STATED ON YOUR PERMIT. THERE ARE NO EXCEPTIONS TO THIS POLICY!!!!MUST SEND A PICTURE OF YOUR PERMIT PRIOR TO THE CLASS AND SHOW THE SAME PERMIT VIA CAMERA TO THE INSTRUCTOR AT THE TIME OF THE CLASSZOOM LINK AND INSTRUCTIONS WILL BE SENT BY EMAIL THE DAY BEFORE YOUR CLASS. TEXT REMINDER WILL BE SENT AS WELL
+LAST-MODIFIED:20220131T223000Z
+LOCATION:Manhattan
+SUMMARY:January 31 - 5:30pm ZOOM CLASS
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

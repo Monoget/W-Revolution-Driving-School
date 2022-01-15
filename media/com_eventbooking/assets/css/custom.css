@@ -1,0 +1,4 @@
+.form-horizontal .help-inline, .form-horizontal .input-append, .form-horizontal .input-prepend, .form-horizontal .uneditable-input, .form-horizontal input, .form-horizontal select, .form-horizontal textarea, .form-inline .help-inline, .form-inline .input-append, .form-inline .input-prepend, .form-inline .uneditable-input, .form-inline input, .form-inline select, .form-inline textarea, .form-search .help-inline, .form-search .input-append, .form-search .input-prepend, .form-search .uneditable-input, .form-search input, .form-search select, .form-search textarea   {
+padding-top: 10px;
+padding-bottom: 10px;
+}
